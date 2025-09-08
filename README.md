@@ -1,4 +1,4 @@
-### Vereisten
+### Vereisten - copypaste in cmd
 
 #### Stap 1: Installeer FFmpeg
 
