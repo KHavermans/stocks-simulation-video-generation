@@ -1,7 +1,16 @@
-Copypasten in cmd:
-  winget source update
-_
+### Vereisten
 
-  #winget install Gyan.FFmpeg
-_
-  #pip install matplotlib pandas numpy yfinance tk
+#### Stap 1: Installeer FFmpeg
+
+```bash
+winget source update
+winget install Gyan.FFmpeg
+```
+
+-----
+
+#### Stap 2: Installeer de Python-bibliotheken
+
+```bash
+pip install matplotlib pandas numpy yfinance tk
+```
